@@ -3,7 +3,7 @@
 
 <!-- Badges-->
 
-[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/Rai7en)
+[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/Rai2en)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/crispus-houessou/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:r4izen777@gmail.com)
 
@@ -14,13 +14,13 @@
 **About Me:**
 
 <!-- Image aligned to the right-->
-<img width="55%" align="right" alt="Github" src="https://github.com/Rai7en/.github/blob/main/master/.ressources/git-header.svg" />
+<img width="55%" align="right" alt="Github" src="https://github.com/Rai2en/.github/blob/main/master/.ressources/git-header.svg" />
 
 - 🎓 I'm a Cybersecurity student with a Bachelor of Science in Network Security
 - 👨🏽‍💻 Currently diving into penetration testing, and on the path to OSCP certification
 - 💬 Talk me about python scripting, basketball, manga or hacking (Ethical😉)
 - ⚔️ [Hackthebox](https://app.hackthebox.com/users/1686710) CTF player
-- ⚡ [Personnal Blog](https://rai7en.github.io/) for CTF Writups & IT related stuffs
+- ⚡ [Personnal Blog](https://Rai2en.github.io/) for CTF Writups & IT related stuffs
     <br /> <br />
   *Feel free to explore my cybersecurity endeavors and share in the excitement of this ever-evolving journey!*
       <br />  <br />
@@ -30,7 +30,7 @@
 -->
 <p>
   <a>
-    <img width="55%" align="right" alt="Rai2en github stats" src="https://github-readme-stats.vercel.app/api?username=rai7en&show_icons=true&hide_border=true" />
+    <img width="55%" align="right" alt="Rai2en github stats" src="https://github-readme-stats.vercel.app/api?username=Rai2en&show_icons=true&hide_border=true" />
   </a>
 
   <!-- Languages and tools 
@@ -53,7 +53,7 @@
 
 <!-- Visitor Counter -->
 <p align="right">
-  <img alt="ViewCount" src="https://views.whatilearened.today/views/github/rai7en/rai7en.svg" />
+  <img alt="ViewCount" src="https://views.whatilearened.today/views/github/Rai2en/Rai2en.svg" />
 </p>
 
 ---
