@@ -30,7 +30,7 @@
 -->
 <p>
   <a>
-    <img width="55%" align="right" alt="Rai7en github stats" src="https://github-readme-stats.vercel.app/api?username=rai7en&show_icons=true&hide_border=true" />
+    <img width="55%" align="right" alt="Rai2en github stats" src="https://github-readme-stats.vercel.app/api?username=rai7en&show_icons=true&hide_border=true" />
   </a>
 
   <!-- Languages and tools 
