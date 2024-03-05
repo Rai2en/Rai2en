@@ -18,7 +18,7 @@
 
 - 🎓 I'm a Cybersecurity student with a Bachelor of Science in Network Security
 - 👨🏽‍💻 Currently diving into penetration testing, and on the path to OSCP certification
-- 💬 Talk me about python scripting, basketball, manga or hacking (Ethical😉)
+- 💬 Talk to me about python scripting, basketball, manga or hacking (Ethical😉)
 - ⚔️ [Hackthebox](https://app.hackthebox.com/users/1686710) CTF player
 - ⚡ [Personnal Blog](https://Rai2en.github.io/) for CTF Writups & IT related stuffs
     <br /> <br />
