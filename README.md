@@ -17,11 +17,11 @@
 <img width="55%" align="right" alt="Github" src="https://github.com/Rai2en/.github/blob/main/master/.ressources/git-header.svg" />
 
 - 🎓 I'm a Cybersecurity student with a Bachelor of Science in Network Security
-- 👨🏽‍💻 Currently diving into penetration testing, and on the path to OSCP certification
-- 💬 Talk to me about python scripting, basketball, manga or hacking (Ethical😉)
+- 👨🏽‍💻 Currently delving into penetration testing and pursuing OSCP certification
+- 💬 Let's chat about Python scripting, basketball, manga, or hacking (Ethical😉)
 - ⚔️ [Hackthebox](https://app.hackthebox.com/users/1686710) CTF player
-- 🌐 [Personnal Blog](https://Rai2en.github.io/) for CTF Writups & IT related stuffs
-- ⚡ Some of My Acquired [IT Badges](https://www.credly.com/users/crispus) 
+- 🌐 Check out my [personnal Blog](https://Rai2en.github.io/) for CTF Writups & IT related content
+- ⚡ Here are some of my acquired [IT Badges](https://www.credly.com/users/crispus) 
     <br /> <br />
   *Feel free to explore my cybersecurity endeavors and share in the excitement of this ever-evolving journey!*
       <br />  <br />
