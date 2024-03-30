@@ -20,8 +20,8 @@
 - 👨🏽‍💻 Currently diving into penetration testing, and on the path to OSCP certification
 - 💬 Talk to me about python scripting, basketball, manga or hacking (Ethical😉)
 - ⚔️ [Hackthebox](https://app.hackthebox.com/users/1686710) CTF player
-- ⚡ [Personnal Blog](https://Rai2en.github.io/) for CTF Writups & IT related stuffs
-- 🔶 Some of My Acquired [IT Badges](https://www.credly.com/users/crispus) 
+- 🌐 [Personnal Blog](https://Rai2en.github.io/) for CTF Writups & IT related stuffs
+- ⚡ Some of My Acquired [IT Badges](https://www.credly.com/users/crispus) 
     <br /> <br />
   *Feel free to explore my cybersecurity endeavors and share in the excitement of this ever-evolving journey!*
       <br />  <br />
