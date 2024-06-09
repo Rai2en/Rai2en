@@ -62,7 +62,3 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rai2en&theme=dark)](https://git.io/streak-stats)
 
 ---
-<div align="center">
-  <img alt="Snake animation dark mode" src="https://raw.githubusercontent.com/migueltc13/migueltc13/main/.github/images/github-snake-dark.svg#gh-dark-mode-only"/>
-  <img alt="Snake animation light mode" src="https://raw.githubusercontent.com/migueltc13/migueltc13/main/.github/images/github-contribution-grid-snake.svg#gh-light-mode-only"/>
-</div>
