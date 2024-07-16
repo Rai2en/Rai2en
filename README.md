@@ -1,5 +1,5 @@
 <!-- Title -->
-## Hi, i'm Crispus, a cybersecurity enthusiast 🚀 from Benin. Welcome to my journey.
+## Hi, i'm Crispus, a cybersecurity enthusiast 🚀. Welcome to my journey.
 
 <!-- Badges-->
 
