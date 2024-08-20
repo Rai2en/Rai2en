@@ -22,7 +22,7 @@
 - 🌐 Check out my [personnal Blog](https://Rai2en.github.io/) for CTF Writups & IT related content
 - ⚡ Here are some of my [IT Badges](https://www.credly.com/users/crispus) 
     <br /> <br />
-  *Feel free to explore my cybersecurity endeavors and share in the excitement of this ever-evolving journey!*
+  *Feel free to explore my cybersecurity projects and join in the excitement of this ever-evolving journey!!*
       <br />  <br />
 **Languages and Tools:** 
 
