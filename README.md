@@ -20,7 +20,7 @@
 - 👨🏽‍💻 Currently working as Network Security Administrator and delving into penetration testing
 - ⚔️ [Hackthebox](https://app.hackthebox.com/users/1686710) CTF player
 - 🌐 Check out my [personnal Blog](https://Rai2en.github.io/) for CTF Writups & IT related content
-- ⚡ Here are some of my [IT Badges](https://www.credly.com/users/crispus) 
+- ⚡ [Here](https://www.credly.com/users/crispus) are some of my IT Badges 
     <br /> <br />
   *Feel free to explore my cybersecurity endeavors and join in the excitement of this ever-evolving journey!!*
       <br />  <br />
