@@ -58,10 +58,7 @@
 ---
 <table>
   <tr>
-    <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=rai2en&theme=dark" />
-    </td>
-    <td>
+    <td align="center">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rai2en&layout=compact&text_color=daf7dc&bg_color=151515&hide=css,html,php" />
     </td>
   </tr>
