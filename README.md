@@ -9,12 +9,11 @@
 
 
 <!-- About me -->
-### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" />
+<img src="https://github.com/Rai2en/rai2en.github.io/blob/main/assets/img/Developer.gif" width="45" />
 
 **About Me:**
 
 <!-- Image aligned to the right-->
-<img width="55%" align="right" alt="Github" src="https://github.com/Rai2en/.github/blob/main/master/.ressources/git-header.svg" />
 
 - 🎓 I'm a Cybersecurity student with a Bachelor of Science in Network Security
 - 👨🏽‍💻 Currently working as Network Security Administrator and delving into penetration testing
@@ -25,13 +24,11 @@
       <br />  <br />
 **Languages and Tools:** 
 
-<!-- Github readme with this api: https://github.com/anuraghazra/github-readme-stats
--->
 <p>
-  <a>
-    <img width="45%" align="right" alt="Rai2en github stats" src="https://github-readme-stats.vercel.app/api?username=Rai2en&show_icons=true&hide_border=true" />
+<a>
+    <img width="30%" align="right" alt="Rai2en github stats" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=rai2en&theme=github_dark" />
   </a>
-
+    
   <!-- Skills and Languages 
   Site to get logos: https://www.vectorlogo.zone or https://simpleicons.org/
   -->
@@ -51,7 +48,7 @@
 </p>
 
 <!-- Visitor Counter -->
-<p align="right">
+<p align="center">
   <img alt="ViewCount" src="https://views.whatilearened.today/views/github/Rai2en/Rai2en.svg" />
 </p>
 
@@ -59,14 +56,15 @@
 <table>
   <tr>
     <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rai2en&layout=compact&text_color=daf7dc&bg_color=151515&hide=css,html,php" />
+      <img src="https://github-readme-streak-stats.herokuapp.com?user=rai2en&theme=highcontrast" />
+    </td>
+    <td align="center">
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rai2en&theme=github_dark" />
     </td>
   </tr>
   <tr>
     <td colspan="2" align="center">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rai2en&theme=radical" />
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rai2en&theme=tokyonight" />
     </td>
   </tr>
 </table>
-
----
