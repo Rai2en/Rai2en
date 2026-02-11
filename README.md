@@ -24,11 +24,7 @@
       <br />  <br />
 **Languages and Tools:** 
 
-<p>
-<a>
-    <img width="30%" align="right" alt="Rai2en github stats" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=rai2en&theme=github_dark" />
-  </a>
-    
+<p> 
   <!-- Skills and Languages 
   Site to get logos: https://www.vectorlogo.zone or https://simpleicons.org/
   -->
@@ -44,7 +40,6 @@
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg"></code>
   <code><img width="10%" src="https://upload.wikimedia.org/wikipedia/commons/f/f8/Splunk_logo.png"></code>
   <br />
-
 </p>
 
 <!-- Visitor Counter -->
@@ -57,6 +52,9 @@
   <tr>
     <td align="center">
       <img src="https://github-readme-streak-stats.herokuapp.com?user=rai2en&theme=highcontrast" />
+    </td>
+    <td align="right">
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=rai2en&theme=github_dark" />
     </td>
   <tr>
     <td colspan="2" align="center">
