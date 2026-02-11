@@ -58,10 +58,6 @@
     <td align="center">
       <img src="https://github-readme-streak-stats.herokuapp.com?user=rai2en&theme=highcontrast" />
     </td>
-    <td align="center">
-      <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rai2en&theme=github_dark" />
-    </td>
-  </tr>
   <tr>
     <td colspan="2" align="center">
       <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rai2en&theme=tokyonight" />
