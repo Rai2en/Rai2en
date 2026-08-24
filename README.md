@@ -54,11 +54,11 @@
       <img src="https://github-readme-streak-stats.herokuapp.com?user=rai2en&theme=highcontrast" />
     </td>
     <td align="right">
-      <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=rai2en&theme=github_dark" />
+      <img src="https://raw.githubusercontent.com/Rai2en/Rai2en/main/profile-summary-card-output/github_dark/3-stats.svg" />
     </td>
   <tr>
     <td colspan="2" align="center">
-      <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rai2en&theme=github_dark" />
+      <img src="https://raw.githubusercontent.com/Rai2en/Rai2en/main/profile-summary-card-output/github_dark/0-profile-details.svg" />
     </td>
   </tr>
 </table>
