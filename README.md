@@ -1,5 +1,5 @@
 <!-- Title -->
-## Hi, i'm Crispus, a cybersecurity enthusiast 🚀. Welcome to my journey.
+# Hi, I’m Crispus — Network Security Administrator and cybersecurity enthusiast 🚀
 
 <!-- Badges-->
 
@@ -9,7 +9,7 @@
 
 
 <!-- About me -->
-<img src="https://github.com/Rai2en/rai2en.github.io/blob/main/assets/img/Developer.gif" width="45" />
+<img src="https://raw.githubusercontent.com/Rai2en/rai2en.github.io/main/assets/img/Developer.gif" width="45" />
 
 **About Me:**
 
@@ -18,7 +18,7 @@
 - 🎓 I'm a Cybersecurity student with a Bachelor of Science in Network Security
 - 👨🏽‍💻 Currently working as Network Security Administrator and delving into penetration testing
 - ⚔️ [Hackthebox](https://app.hackthebox.com/users/1686710) CTF player
-- 🌐 Check out my [personnal Blog](https://Rai2en.github.io/) for CTF Writups & IT related content 
+- 🌐 Check out my [personal blog](https://Rai2en.github.io/) for CTF write-ups & IT-related content
     <br /> <br />
   *Feel free to explore my cybersecurity endeavors and join in the excitement of this ever-evolving journey!!*
       <br />  <br />
