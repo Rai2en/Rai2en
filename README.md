@@ -50,15 +50,16 @@
 ---
 <table>
   <tr>
-    <td align="center">
-      <img src="https://streak-stats.demolab.com?user=rai2en&theme=highcontrast" />
+    <td width="50%" align="center">
+      <img alt="Dépôts par langage" src="https://raw.githubusercontent.com/Rai2en/Rai2en/main/profile-summary-card-output/github_dark/1-repos-per-language.svg" />
     </td>
-    <td align="right">
-      <img src="https://raw.githubusercontent.com/Rai2en/Rai2en/main/profile-summary-card-output/github_dark/3-stats.svg" />
+    <td width="50%" align="center">
+      <img alt="Statistiques GitHub" src="https://raw.githubusercontent.com/Rai2en/Rai2en/main/profile-summary-card-output/github_dark/3-stats.svg" />
     </td>
+  </tr>
   <tr>
     <td colspan="2" align="center">
-      <img src="https://raw.githubusercontent.com/Rai2en/Rai2en/main/profile-summary-card-output/github_dark/0-profile-details.svg" />
+      <img alt="Détails du profil GitHub" src="https://raw.githubusercontent.com/Rai2en/Rai2en/main/profile-summary-card-output/github_dark/0-profile-details.svg" />
     </td>
   </tr>
 </table>
