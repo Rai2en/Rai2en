@@ -51,10 +51,10 @@
 <table>
   <tr>
     <td width="50%" align="center">
-      <img alt="Dépôts par langage" src="https://raw.githubusercontent.com/Rai2en/Rai2en/main/profile-summary-card-output/github_dark/1-repos-per-language.svg" />
+      <img alt="Statistiques GitHub" src="https://raw.githubusercontent.com/Rai2en/Rai2en/main/profile-summary-card-output/github_dark/3-stats.svg" />
     </td>
     <td width="50%" align="center">
-      <img alt="Statistiques GitHub" src="https://raw.githubusercontent.com/Rai2en/Rai2en/main/profile-summary-card-output/github_dark/3-stats.svg" />
+      <img alt="Dépôts par langage" src="https://raw.githubusercontent.com/Rai2en/Rai2en/main/profile-summary-card-output/github_dark/1-repos-per-language.svg" />
     </td>
   </tr>
   <tr>
