@@ -1,5 +1,5 @@
 <!-- Title -->
-# Hi, I’m Crispus — Network Security Administrator and cybersecurity enthusiast 🚀
+# Hi, I’m Crispus, a Network Security Administrator and cybersecurity enthusiast 🚀
 
 <!-- Badges-->
 
