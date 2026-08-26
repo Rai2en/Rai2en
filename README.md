@@ -51,7 +51,7 @@
 <table>
   <tr>
     <td align="center">
-      <img src="https://github-readme-streak-stats.herokuapp.com?user=rai2en&theme=highcontrast" />
+      <img src="https://streak-stats.demolab.com?user=rai2en&theme=highcontrast" />
     </td>
     <td align="right">
       <img src="https://raw.githubusercontent.com/Rai2en/Rai2en/main/profile-summary-card-output/github_dark/3-stats.svg" />
